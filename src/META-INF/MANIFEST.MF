@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Rsrc-Class-Path: ./ commons-codec-1.15.jar commons-io-2.11.0.jar gson-
+ 2.8.5.jar
+Class-Path: .
+Rsrc-Main-Class: fr.paladium.Bootstrap
+Main-Class: org.eclipse.jdt.internal.jarinjarloader.JarRsrcLoader
+
